@@ -1,4 +1,5 @@
 Respuesta a la pregunta 1: Departamento de comunicacion, departamento aministrativo, departamento de produccion, gerencia.Respuesta a la pregunta 2: El hardawre ,Software,Internet,DatosRespuesta a la pregunta 3
 : OLUCION.txt 
 Print Respuesta Respuesta a la pregunta 3
-: Es un conjunto de programas que permite manejar la memoria.
+: Es un conjunto de programas que permite manejar la memoria.Respuesta a la pregunta 4
+: entrada, fronteras,salidas,alrededor
