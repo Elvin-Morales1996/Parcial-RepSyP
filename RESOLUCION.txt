@@ -2,4 +2,5 @@ Respuesta a la pregunta 1: Departamento de comunicacion, departamento aministrat
 : OLUCION.txt 
 Print Respuesta Respuesta a la pregunta 3
 : Es un conjunto de programas que permite manejar la memoria.Respuesta a la pregunta 4
-: entrada, fronteras,salidas,alrededor
+: entrada, fronteras,salidas,alrededorRespuesta a la pregunta 3
+: es un conjunto de programas que permite manejar la memoria.
